@@ -1,2 +1,2 @@
 # ChaosInRNN
-The purpose of this repositrory is to simulate a network that can recreate the results obtained by Mastrogiuseppe and Ostojic.
+ Here we can store the code necessary to simulate a network of rate units and compare the results to Ostojic's work. 
